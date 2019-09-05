@@ -1,2 +1,2 @@
 # RTR105
-Studiju kursu Datormācība (pamatkurss0 elektroniskā klade
+Studiju kursu Datormācība (pamatkurss) elektroniskā klade
