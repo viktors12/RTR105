@@ -1,0 +1,102 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  sh
+    5  exit
+    6  s
+    7  ls
+    8  touch
+    9  touch aaa.txt
+   10  ls
+   11  ls -a
+   12  ls -la
+   13  cat aaa.txt
+   14  echo Tkests ko nevajag lasitasd
+   15  echo Tkests ko nevajag lasitasd > aaa.txt 
+   16  cat aaa.txt
+   17  ls -l aaa.txt
+   18  echo lalaalala > aaa.txt 
+   19  cat aaa.txt
+   20  echo Tkests ko nevajag lasitasd >> aaa.txt 
+   21  cat aaa.txt
+   22  nano aaa.txt
+   23  cat aaa.txt
+   24  ls -la aaa.txt
+   25  cd /
+   26  mv ~/aaa.txt ~/Documents/ccc.txt
+   27  cd
+   28  cd Documents
+   29  ls
+   30  cd
+   31  ls
+   32  ls -a
+   33  cd Documents
+   34  ls -a
+   35  ls
+   36  cat ccc.txt
+   37  cd
+   38  ls -l Documents/
+   39  mv ./Documents/ccc.txt ddd.txt
+   40  ls -l
+   41  mkdir Viktors
+   42  mv *.txt Viktors/
+   43  ls
+   44  ls -l
+   45  ls -la
+   46  cd Viktors
+   47  ls
+   48  ek ddd.txt
+   49  rm ddd.txt
+   50  ls
+   51  ls his*
+   52  ls
+   53  em his*
+   54  rm his*
+   55  ls
+   56  time
+   57  clock
+   58  time
+   59  man time
+   60  nano manspirmaisskripts.sh
+   61  ls
+   62  ls -l
+   63  manspirmaisskripts.sh
+   64  echo $path
+   65  echo $PATH
+   66  ls /bin | grep ls
+   67  ls -l /bin | grep ls
+   68  ls -l /bin/ls
+   69  cd
+   70  ;s
+   71  ls
+   72  cat /bin/ls
+   73  ls -l /bin/ls
+   74  manspirmaisskripts.sh
+   75  ~/Viktors/manspirmaisskripts.sh
+   76  echo $PATh
+   77  $PATH=$PATH:~/Viktors
+   78  $PATH=$PATH:~/
+   79  $PATH=$PATH:~/Viktors/
+   80  PATH=$PATH:~/Viktors/
+   81  echo $PATH
+   82  ls $PATH
+   83  manspirmaisskripts.sh
+   84  chmod 740 manspirmaisskripts.sh
+   85  cd Viktors
+   86  ls -l
+   87  chmod 740 manspirmaisskripts.sh
+   88  ls -l
+   89  manspirmaisskripts.sh
+   90  cd
+   91  ls
+   92  echo $PATH
+   93  nano manspirmaisskripts.sh
+   94  cat  manspirmaisskripts.sh
+   95  ls
+   96  cd Viktors
+   97  ls
+   98  ls -l ViktorsAuto
+   99  cat ViktorsAuto/fff.txt
+  100  nano manspirmaisskripts.sh
+  101  history
+  102  history > history_20190912a.txt
