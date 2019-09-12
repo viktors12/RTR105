@@ -17,3 +17,8 @@ echo saglabā tekstu, pēc tam atkārtojo komandu uzrādīs tavu tekstu
 echo $ pieprasam sistēmas mainīgo
 man parāda kautkādas 
 & ļauj turpināt rakstīt paralēli programmai
+nano uzstaisīt/atvērt
+echo $PATH likt parādīt kautkādu ceļu
+PATH=$PATH:(atrašanās vieta) nomainī to ceļu
+chmod (cipari) -nomainīt programmas atļaujas
+cat nolasīt prog
