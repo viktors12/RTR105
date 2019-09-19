@@ -1,0 +1,70 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  firefox
+    5  pwd
+    6  ls -l
+    7  cat readme.md
+    8  cat README.md 
+    9  nano git-upload
+   10  ls -la
+   11  chmod 700 git-upload
+   12  ls -la
+   13  git-upload
+   14  ./git-upload
+   15  cat git-upload
+   16  ./git-upload 20190919_15_00
+   17  ./git-upload
+   18  nano git-upload
+   19  ./git-upload
+   20  nano git-upload
+   21  ./git-upload 20190919_15_00
+   22  nano git-upload
+   23  
+   24  cd
+   25  ls -l
+   26  rm -rf RTR105/
+   27  ls
+   28  nano elementary.c
+   29  ls -l
+   30  mkdir darbi
+   31  mv elementary.c darbi/
+   32  cd darbi
+   33  cat elementary.c
+   34  gcc elementary.c
+   35  nano elementary.c
+   36  gcc elementary.c
+   37  ls -la
+   38  ./a.out
+   39  gcc elementary.c -o prg1
+   40  ./prg1
+   41  ls -la
+   42  nano elementary.c 
+   43  gcc elementary.c -o prg2
+   44  ls -a
+   45  nano elementary.c 
+   46  gcc elementary.c -o prg3
+   47  cat prg1
+   48  cp elementary.c hello.c
+   49  ls -a
+   50  nano hello.c
+   51  gcc hello.c -o hello
+   52  nano hello.c 
+   53  gcc hello.c -o hello
+   54  nano hello.c 
+   55  gcc hello.c -o hello
+   56  ./hello
+   57  ./hello.c
+   58  nano hello.c 
+   59  gcc hello.c -o hello
+   60  cat hello.c
+   61  nano hello.c 
+   62  rm prg*
+   63  ls -a
+   64  rm hello
+   65  rm a.out
+   66  ls-a
+   67  ls -a
+   68  cd
+   69  history
+   70  history > history_20190919_16_00
