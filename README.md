@@ -42,3 +42,5 @@ PATH=$PATH:(atrašanās vieta) nomainī to ceļu
 chmod (cipari) -nomainīt programmas atļaujas
 
 cat nolasīt prog
+
+git clone https://github.com/viktors12/RTR105
